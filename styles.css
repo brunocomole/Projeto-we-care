@@ -108,7 +108,7 @@ p {
         font-size: 40px;
         position: relative;
         left: -32px;
-        top: -14px;
+        top: 2px;
 
         
       }
@@ -117,7 +117,7 @@ p {
         font-size: 21px;
         position: relative;
         left: -66px;
-        top: -54px;
+        top: 1px;
         line-height: 31px;
         width: 384px;
 
